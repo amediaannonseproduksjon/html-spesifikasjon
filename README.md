@@ -2,12 +2,13 @@
 
 Image | Rich Media
 ------------- | -------------
-jpg, png eller gif | html/iframe
-max 100 kb | redirect tag/third part tag
-Url som annonsen skal linkes til må være vedlagt | max 100 kb
-filnavnet må inneholdet formatet | linken må åpnes i nytt vindu
-filnavnet må ikke innholde store bokstaver, mellomrom, tegn eller bokstavene æ, ø og å. | filnavnet må inneholdet formatet
- | filnavnet må ikke innholde store bokstaver, mellomrom, tegn eller bokstavene æ, ø og å.
+jpg, png eller gif | HTML/iframe
+Max 100 kb | Redirect tag/third part tag
+Url som annonsen skal linkes til må være vedlagt | Max 100 kb
+Filnavnet må inneholdet formatet | Linken må åpnes i nytt vindu
+Filnavnet må ikke innholde store bokstaver, mellomrom, tegn eller bokstavene æ, ø og å. | Filnavnet må inneholdet formatet
+ | Filnavnet må ikke innholde store bokstaver, mellomrom, tegn eller bokstavene æ, ø og å.
+ | På mobil må innholdet være responsivt
 
 #### Amedia HTML tekniske spesifikasjoner
 https://github.com/amedia/advertsspec/blob/master/specification.md
