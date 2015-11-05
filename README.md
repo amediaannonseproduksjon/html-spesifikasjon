@@ -51,4 +51,4 @@ Innholdet i en ADCLICK-variabel ser f.eks slik ut:
 Merk at linken avsluttes med link= og bak her settes det inn det annonsen faktisk skal linkes til.
 
 Det er flere måter å bruke denne variabelen på, f.eks JavaScript eller PHP.
-Googlesøketips: javascript get query string parameter.
+Googlesøketips: [javascript get query string parameter](https://www.google.no/search?q=javascript+get+query+string+parameter.&oq=javascript+get+query+string+parameter).
