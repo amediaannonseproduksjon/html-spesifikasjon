@@ -9,5 +9,5 @@ filnavnet må inneholdet formatet | linken må åpnes i nytt vindu
 filnavnet må ikke innholde store bokstaver, mellomrom, tegn eller bokstavene æ, ø og å. | filnavnet må inneholdet formatet
  | filnavnet må ikke innholde store bokstaver, mellomrom, tegn eller bokstavene æ, ø og å.
  
-#### Amedia HTML specs
+#### Amedia HTML teknsiske spesifikasjoner
 https://github.com/amedia/advertsspec/blob/master/specification.md
