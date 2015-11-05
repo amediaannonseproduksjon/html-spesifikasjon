@@ -1,6 +1,6 @@
 # HTML Spesifikasjon
 
-### Image | ### Rich Media
+Image | Rich Media
 ------------- | -------------
 jpg, png eller gif | html/iframe
 max 100 kb | redirect tag/third part tag
