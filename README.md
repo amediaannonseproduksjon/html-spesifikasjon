@@ -24,19 +24,19 @@ Det er to måter å levere html-annonser på:
 - alle filene ligger på egen server, og annonsen leveres som en iframe-kode. Egen clickTag må legges inn, se tips under.
 
 ##### Desktop iframe
-´´´html
+```html
 <iframe src="LINK_TIL_ANNONSEN_SOM_LIGGER_PÅ_SERVEREN_EVT_MED_ADCLICK_VARIABEL" width="_bredde_px" height="_høyde_px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless></iframe>
-´´´
+```
 
 ##### Mobil 1:1 iframe
-´´´html
+```html
 <style>/* flexible iFrame */ .k-flexible-container {position: relative;padding-bottom: 100%;height: 0;overflow: hidden;} .k -flexible-container iframe,k -flexible-container object,k-flexible-container embed {position: absolute; top: 0;left: 0; width: 100%;height: 100%;}</style><div class="k-flexible-container"><iframe src="LINK_TIL_ANNONSEN_SOM_LIGGER_PÅ_SERVEREN_EVT_MED_ADCLICK_VARIABEL" width="_bredde_px" height="_høyde_px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless></iframe> </div>
-´´´
+```
 
 ##### Mobil 2:1 iframe
-´´´html
+```html
 <style>/* flexible iFrame */ .k-flexible-container {position: relative;padding-bottom: 50%;height: 0;overflow: hidden;} .k -flexible-container iframe,k -flexible-container object,k-flexible-container embed {position: absolute; top: 0;left: 0; width: 100%;height: 100%;}</style><div class="k-flexible-container"><iframe src="LINK_TIL_ANNONSEN_SOM_LIGGER_PÅ_SERVEREN_EVT_MED_ADCLICK_VARIABEL" width="_bredde_px" height="_høyde_px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless></iframe> </div>
-´´´
+```
 
 #### clickTag
 Her er noen tips ang ClickTAG. Hvis dere ikke får det til å virke, anbefaler vi at de bruker google analytics e.l. Vi har dessverre liten mulighet for å ha support på dette.
