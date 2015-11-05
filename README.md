@@ -46,7 +46,7 @@ Kort sagt så erstatter annonsesystemet denne variabelen med en lang url som inn
 Nettleseren tar en snartur innom denne adressen for å registrere klikket før den går til f.eks. landingssiden.
 Sluttbrukeren vil ikke merke denne svippturen.
 Innholdet i en ADCLICK-variabel ser f.eks slik ut:
-´http://adserver.adtech.de/adlink|1361|4206997|0|554|AdId=9942423;BnId=10;itime=400147026;key=forsiden;nodecode=yes;link=´
+`http://adserver.adtech.de/adlink|1361|4206997|0|554|AdId=9942423;BnId=10;itime=400147026;key=forsiden;nodecode=yes;link=`
 Merk at linken avsluttes med link= og bak her settes det inn det annonsen faktisk skal linkes til.
 
 Det er flere måter å bruke denne variabelen på, f.eks JavaScript eller PHP.
