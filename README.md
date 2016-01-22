@@ -42,7 +42,7 @@ Det er to måter å levere html-annonser på:
 #### clickTag
 Her er noen tips ang ClickTAG. Hvis dere ikke får det til å virke, anbefaler vi at de bruker google analytics e.l. Vi har dessverre liten mulighet for å ha support på dette.
 
-Klikk på annonsen kan registreres ved hjelp av variabelen _ADCLICK_ i Adtech IQ.
+Klikk på annonsen kan registreres ved hjelp av variabelen `_ADCLICK_` i Adtech IQ.
 Kort sagt så erstatter annonsesystemet denne variabelen med en lang url som inneholder en del informasjon om annonsen.
 Nettleseren tar en snartur innom denne adressen for å registrere klikket før den går til f.eks. landingssiden.
 Sluttbrukeren vil ikke merke denne svippturen.
