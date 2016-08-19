@@ -21,9 +21,7 @@ https://github.com/fredrikborggren/ADTECH-creativespec
 http://validator.gardr.org/
 
 ### Levering fra lokalt produksjonsbyrå
-Det er to måter å levere html-annonser på:
-- alle filene sendes til publisering. Merk: da må [spesifikasjonen til Adtech](https://github.com/fredrikborggren/ADTECH-creativespec) og [Amedia sine HTML spesifikasjoner](http://developer.api.no/adverts/html5_adverts_specification.html) følges.
-- alle filene ligger på egen server, og annonsen leveres som en iframe-kode. [Amedia sine HTML spesifikasjoner](http://developer.api.no/adverts/html5_adverts_specification.html) må følges og egen clickTag må legges inn, se tips under.
+Alle filene ligger på egen server, og annonsen leveres som en iframe-kode. [Amedia sine HTML spesifikasjoner](http://developer.api.no/adverts/html5_adverts_specification.html) må følges og egen clickTag må legges inn, se tips under.
 
 ##### Desktop iframe
 ```html
